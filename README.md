@@ -1,4 +1,6 @@
-AI-Powered Portrait Generation & Editing with Stable Diffusion
+**AI-Powered Portrait Generation & Editing with Stable Diffusion
+**
+
 This project delivers an intelligent system for generating and editing lifelike human portraits from natural language prompts, powered by Stable Diffusion. It combines creative generation with targeted facial modifications, offering significant value in fields such as identity reconstruction, law enforcement, and digital content creation.
 
 Use Case
